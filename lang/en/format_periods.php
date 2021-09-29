@@ -67,3 +67,4 @@ $string['showpastperiods'] = 'Show past periods';
 $string['showpastperiods_help'] = 'Defines whether to show or to hide the periods that have the end date in the past. "Hide from the course page" means that the activities will not be shown on the course page but they will be visible in the gradebook and other reports.';
 $string['showperiods'] = 'Show current periods';
 $string['showperiods_help'] = 'Defines how to display periods by default. This can be overridden for past or future periods below';
+$string['privacy:metadata'] = 'The periods format plugin does not store any personal data.';
